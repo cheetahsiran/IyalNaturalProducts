@@ -11,7 +11,7 @@ import { useState } from "react";
 const Home = () => {
   const [value, setValue] = useState(2);
   const handleChange = (event, newValue) => {
-        setValue(newValue);
+    setValue(newValue);
   };
   return (
     <div className={Styles.HomeWrapper}>
