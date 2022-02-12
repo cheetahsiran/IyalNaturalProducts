@@ -1,0 +1,16 @@
+.actionContainer{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly
+}
+.CardMedia{
+    display: block;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-position: center;
+    background-position: center;
+    object-fit: cover;
+    margin: auto;
+    width: auto !important;
+}

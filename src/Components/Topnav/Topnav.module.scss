@@ -1,0 +1,37 @@
+.topNavWrapper{
+    // height: 250px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    .logo{
+        display: flex;
+       font-size: 2rem;
+       align-items: center;
+    
+       img{
+           height: 50px;
+           width: auto;
+           margin-right: 15px;
+       }
+    }
+    div:nth-of-type(1) {flex-grow: 1};
+    div:nth-of-type(2) {flex-grow: 3};
+    .menu{
+        ul {
+            list-style: none;
+            display: flex;
+            justify-content: flex-end;
+            li {
+                a{
+                    padding: 10px;
+                    text-decoration: none;
+                }
+               
+            }
+        }
+        
+    }
+
+}
