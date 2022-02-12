@@ -1,4 +1,3 @@
-import Styles from "./Products.module.scss";
 
 const Products = () => {
   return <div>Products</div>;

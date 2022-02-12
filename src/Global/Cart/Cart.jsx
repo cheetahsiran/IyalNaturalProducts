@@ -1,4 +1,3 @@
-import Styles from './Cart.module.scss';
 import Button from "@mui/material/Button";
 import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
 const Cart=()=>{

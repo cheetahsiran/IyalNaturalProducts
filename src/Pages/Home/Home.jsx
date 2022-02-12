@@ -1,7 +1,4 @@
 import Styles from "./Home.module.scss";
-import Banner from "../../Components/Banner/Banner";
-import Divider from "@mui/material/Divider";
-import Chip from "@mui/material/Chip";
 import Grid from "@mui/material/Grid";
 import ProductList from "../../Global/ProductsList/ProductList";
 import Tabs from "@mui/material/Tabs";

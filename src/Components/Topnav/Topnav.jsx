@@ -6,7 +6,7 @@ const Topnav = () => {
   return (
     <div className={Styles.topNavWrapper}>
       <div className={Styles.logo}>
-        <img src={Logo} />
+        <img src={Logo} alt="iyal logo"/>
         Iyal Homemade
             </div>
       <div className={Styles.menu}> 

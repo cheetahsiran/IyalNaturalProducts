@@ -1,4 +1,3 @@
-import Styles from './Rating.module.scss';
 import Rating from '@mui/material/Rating';
 import { useState } from 'react';
 const RatingComponent=()=> {
